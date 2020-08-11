@@ -1,0 +1,1 @@
+A simple docker mod to remove the autoplay delay from plex.
